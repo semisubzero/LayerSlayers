@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /TAZ/6.03/production_parts/printed_parts</title>
+ </head>
+ <body>
+<h1>Index of /TAZ/6.03/production_parts/printed_parts</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=D">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/TAZ/6.03/production_parts/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="12mm_double_bearing_holder/">12mm_double_bearing_holder/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="12mm_single_bearing_holder/">12mm_single_bearing_holder/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/odf6odg-20x22.png" alt="[   ]"></td><td><a href="VIEW_ME-gcode_naming_structure.odg">VIEW_ME-gcode_naming_structure.odg</a></td><td align="right">2018-11-01 19:56  </td><td align="right"> 13K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="bearing_holder/">bearing_holder/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="bed_corner_taz6/">bed_corner_taz6/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="bed_mount_chassis/">bed_mount_chassis/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="bed_mount_table/">bed_mount_table/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="electronics_case_mount/">electronics_case_mount/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="extruder_body_hex/">extruder_body_hex/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="extruder_idler_block/">extruder_idler_block/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="extruder_latch/">extruder_latch/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="extruder_mount_taz6/">extruder_mount_taz6/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="extruder_washer/">extruder_washer/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="fan_duct_left/">fan_duct_left/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="fan_duct_right/">fan_duct_right/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="feed_tube_spinner/">feed_tube_spinner/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="flexy_bed_foot/">flexy_bed_foot/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="flexy_washer/">flexy_washer/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="heatsink_fan/">heatsink_fan/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="herringbone_large_gear/">herringbone_large_gear/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="herringbone_large_gear_blk/">herringbone_large_gear_blk/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="herringbone_large_gear_grn/">herringbone_large_gear_grn/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="herringbone_small_gear_blk/">herringbone_small_gear_blk/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="herringbone_small_gear_grn/">herringbone_small_gear_grn/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="interconnect_housing/">interconnect_housing/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="lcd_bezel/">lcd_bezel/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="lcd_knob/">lcd_knob/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="lcd_spacer/">lcd_spacer/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="sd_card_bezel/">sd_card_bezel/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="spool_arm/">spool_arm/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="tippy_feed_tube_holder/">tippy_feed_tube_holder/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="wiper_mount/">wiper_mount/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="x_carriage/">x_carriage/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="x_carriage_guide/">x_carriage_guide/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="y_belt_clamp/">y_belt_clamp/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="y_belt_mount/">y_belt_mount/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="y_corner_left/">y_corner_left/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="y_corner_right/">y_corner_right/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="y_idler_mount/">y_idler_mount/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="y_motor_mount/">y_motor_mount/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="z-min_switch_mount/">z-min_switch_mount/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="z_carriage_idler/">z_carriage_idler/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="z_carriage_motor/">z_carriage_motor/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="z_lower_left/">z_lower_left/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="z_lower_right/">z_lower_right/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/folder.gif" alt="[DIR]"></td><td><a href="z_upper/">z_upper/</a></td><td align="right">2018-11-01 19:56  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+</body></html>

@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /TAZ/6.03/production_parts/printed_parts/herringbone_small_gear_grn/source/inc</title>
+ </head>
+ <body>
+<h1>Index of /TAZ/6.03/production_parts/printed_parts/herringbone_small_gear_grn/source/inc</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=D">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/TAZ/6.03/production_parts/printed_parts/herringbone_small_gear_grn/source/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="SHA1SUM">SHA1SUM</a></td><td align="right">2018-11-01 19:56  </td><td align="right">438 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="metric.scad">metric.scad</a></td><td align="right">2018-11-01 19:56  </td><td align="right">713 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="functions.scad">functions.scad</a></td><td align="right">2018-11-01 19:56  </td><td align="right">838 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="configuration.scad">configuration.scad</a></td><td align="right">2018-11-01 19:56  </td><td align="right">1.3K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="jonaskuehling-default.scad">jonaskuehling-default.scad</a></td><td align="right">2018-11-01 19:56  </td><td align="right">2.1K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="nuts_and_bolts.scad">nuts_and_bolts.scad</a></td><td align="right">2018-11-01 19:56  </td><td align="right">2.6K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="mendel_misc.inc">mendel_misc.inc</a></td><td align="right">2018-11-01 19:56  </td><td align="right">5.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="parametric_involute_gear_v5.0.scad">parametric_involute_gear_v5.0.scad</a></td><td align="right">2018-11-01 19:56  </td><td align="right"> 17K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="parametric_involute_gear_v5.1.scad">parametric_involute_gear_v5.1.scad</a></td><td align="right">2018-11-01 19:56  </td><td align="right"> 18K</td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+</body></html>
